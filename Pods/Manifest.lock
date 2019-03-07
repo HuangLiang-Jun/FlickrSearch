@@ -1,0 +1,57 @@
+PODS:
+  - Alamofire (4.8.1)
+  - IQKeyboardManagerSwift (6.2.0)
+  - Kingfisher (5.1.1)
+  - Moya (12.0.1):
+    - Moya/Core (= 12.0.1)
+  - Moya/Core (12.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.0)
+  - Realm (3.13.1):
+    - Realm/Headers (= 3.13.1)
+  - Realm/Headers (3.13.1)
+  - RealmSwift (3.13.1):
+    - Realm (= 3.13.1)
+  - Result (4.1.0)
+  - SnapKit (4.2.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - Moya
+  - RealmSwift
+  - SnapKit
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - Moya
+    - Realm
+    - RealmSwift
+    - Result
+    - SnapKit
+    - SVProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  Kingfisher: 2558186963e5be42d98c5b110ccb3130148b77e4
+  Moya: cf730b3cd9e005401ef37a85143aa141a12fd38f
+  Realm: 50071da38fe079e0735e47c9f2eae738c68c5996
+  RealmSwift: 8a1e6a02b7a08cd17a31e3115143fb69fe5f3fb9
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: cacbd91cb6652b59116c2fcff20b93b078730ac9
+
+COCOAPODS: 1.5.2
